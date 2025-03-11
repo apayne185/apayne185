@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Anna! I am a developer passionate about building impactful projects in AI, C++, Python, and web development.
+Developer who is passionate about building impactful projects in AI, Quantum, Python, and web development.
 
-💻 Currently working on:
+Currently working on:
 
-* Food Waste Reduction App: Matching ingredients to recipes with a SQLAlchemy backend and a C++ implementation.
+* Eye Tracking & Gaze Attention Analysis: Using OpenCV to track and provide insights on the focus of the users eyes on a screen.
 * Quantum-enhanced CNN Research: Exploring CNN and QCNN models in high-performance computing environments.
 * Web App Development: A Flask and PostgreSQL web app for IE banking, featuring a robust backend, seamless UI/UX integration, and secure cloud-based infrastructure. 
 
   
-📚 Favorite tools: Python, C++, Flask, PostgreSQL, Azure, SQL.
-🎨 Focus areas: AI-driven applications, efficient algorithms, infrastructure for web apps, and pushing the boundaries of technology with research into quantum-enhanced AI.
+Favorite tools: Python, C++, Flask, PostgreSQL, Azure, SQL, PennyLane.
+Focus areas: AI-driven applications, efficient algorithms, infrastructure for web apps, and pushing the boundaries of technology with research into quantum-enhanced AI.
