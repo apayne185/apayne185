@@ -1,28 +1,14 @@
-## Hi there 
+## Anna Payne
 
-<!--
-**apayne185/apayne185** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc Computer Science & Artificial Intelligence · IE University
 
-Here are some ideas to get you started:
+Researcher & developer working at the intersection of quantum computing,
+clinical ML, and responsible AI. My thesis built a hybrid quantum-classical
+VQE stack running on IBM Quantum hardware - one of the few undergraduate
+projects to validate on a real 156-qubit QPU :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in roles in quantum software engineering, ML engineering,
+and applied AI research. Find me here - 
 
-Developer who is passionate about building impactful projects in AI, Quantum, Python, and web development.
-
-Currently working on:
-
-* Eye Tracking & Gaze Attention Analysis: Using OpenCV to track and provide insights on the focus of the users eyes on a screen.
-* Quantum-enhanced CNN Research: Exploring CNN and QCNN models in high-performance computing environments.
-* Web App Development: A Flask and PostgreSQL web app for IE banking, featuring a robust backend, seamless UI/UX integration, and secure cloud-based infrastructure. 
-
-  
-Favorite tools: Python, C++, Flask, PostgreSQL, Azure, SQL, PennyLane.
-Focus areas: AI-driven applications, efficient algorithms, infrastructure for web apps, and pushing the boundaries of technology with research into quantum-enhanced AI.
+[LinkedIn](https://www.linkedin.com/in/anna-payne-258a94228/) · 
+[annapayne185@gmail.com](mailto:annapayne185@gmail.com)
